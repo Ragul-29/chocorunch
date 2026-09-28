@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN choco_points integer NOT NULL DEFAULT 0;
